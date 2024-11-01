@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ymsadmin/static/css/main.b8288ddf.css",
+    "main.js": "/ymsadmin/static/js/main.2b6e456d.js",
+    "index.html": "/ymsadmin/index.html",
+    "main.b8288ddf.css.map": "/ymsadmin/static/css/main.b8288ddf.css.map",
+    "main.2b6e456d.js.map": "/ymsadmin/static/js/main.2b6e456d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8288ddf.css",
+    "static/js/main.2b6e456d.js"
+  ]
+}
